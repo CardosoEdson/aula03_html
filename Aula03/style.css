@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-image: url('blakc 2.jpg');
+    background-size: cover;
+}
+
+.bloco1{
+    margin-top: 300px;
+    margin-left: 300px;
+    background-image: url('black 3.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    color:azure;
+    font-size: 30px;
+    text-align: center;
+    line-height:400px;
+}
+.bloco2{
+    margin-top: 30px;
+    margin-left: 300px;
+    background-image: url('bando chapeu.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    color:azure;
+    font-size: 30px;
+    text-align: center;
+    line-height:400px;
+
+
+
+
+
+
+
+}
